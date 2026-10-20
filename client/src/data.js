@@ -12,7 +12,7 @@ export const profile = {
   tagline:
     "I build data-driven solutions with Python and machine learning, and I'm growing into a full-stack developer.",
   bio: [
-    "I'm a second-year B.Tech student in Computer Science Engineering (AI & ML) at JK Lakshmipat University, Jaipur, with a CGPA of 8.03.",
+    "I'm a third-year B.Tech student in Computer Science Engineering (AI & ML) at JK Lakshmipat University, Jaipur, with a CGPA of 8.03.",
     "I enjoy turning data into useful tools: from health risk prediction models to an elder-care app. I'm now learning the MERN stack to take my ideas from notebooks to full web applications.",
   ],
   location: "Jaipur, Rajasthan, India",
